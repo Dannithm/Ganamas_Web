@@ -1,5 +1,5 @@
 Feature:  Agregar pedido desde gana mas
-Como Consultora Suscrita Activa quiero agregar pedidos desde la seccion dorada de gana mas 
+Como Consultora Suscrita Activa quiero agregar pedidos desde la seccion dorada de gana mas k
 para agregar mas ofertas.
 
 @AgregarPedido_gana+
